@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @cesarbuendia
-- 👀 I’m interested in Python projects
-- 🌱 I’m currently learning Data Structures
+- 👀 I’m interested in Web Apps with visual studio Projects 
+- 🌱 I’m currently learning MVC
 - 📫 How to reach me: cesarbuendia2762@gmail.com
-
-I help students with basic programming exercises.
-Focused on automating boring stuff.
 
 
 <!---
